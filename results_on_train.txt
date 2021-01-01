@@ -1,0 +1,1409 @@
+Beatmap : Izayoi - Night of Knights [Insane (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Izayoi - Night of Knights [Insane (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fleshgod Apocalypse - The Violation [Desecration (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Caravan Palace - Lone Digger [Jack Digger (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Est - Angelic Snow [Blizzard (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Lolit Speed [Marathon (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - FUTURE DOMINATORS [IcyWorld's Lv.54235 (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Sharpnel - Touch The Angel [IcyWorld's Lv.12 (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Sharpnel Sounds - We Luv Lama [IcyWorld's Lv.29 (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Blend A - Bon Appetit S (Full ver) [Sadistic Jack (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Airuei - Framework [mechanically made (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : itaojirou - Tze-Chiang (TamolarM Remix) [High-speed Rail (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Fractal Dreamers - Celestial Horizon [Haven (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : movies (moimoi x Xceon x Dai.) - Too Late Snow [Graupel [10] (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hige Driver - Ukigumo [I wanna be the jumpstream (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Murasaki Hotaru - Kotonoha [Kotoba (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 0.5)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 0.6)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 0.7)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 1.4)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : P.E. - Endymion [Causality Violation (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Frums - We Want To Run [elekton's sprint (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Slax - Sugar Loli [x1.0 (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Vicetone & Tony Igy - Astronomia (Cup o' Chino Bootleg Remix) (Short Mix) [Coffin Jacc (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team J.D.K. - TO MAKE THE END OF BATTLE [Challenge (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : YOASOBI - Yoru ni Kakeru [a lonely night... (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : stereoberry - ametsuchi [petrichor (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : F-777 - Unsafe Speeds [Warp Distortion (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Hanazawa Kawa - Mousou Express (Remix) [A lesson on how to properly map chord jacks (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : IOSYS - Endless Tewi-ma Park [Arcwin Lost Tewicated (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : M - Synthesized Fortress [Invincible Fortress (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : antiPLUR - Clockwork Spooks [haunted (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [demolition (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Camellia - Tornado [Devastation (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Falcom Sound Team jdk - The Azure Arbitrator [Demiourgos (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Kola Kid - spaceman (cut) [I always wanted you to go, into space man (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Occams Laser - Heck Tech [ORBITAL FAILURE (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : Io - Lv.0 [Prelude (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Io - Lv.0 [Prelude (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Tennyson - L'oiseau qui danse [Parakeet (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - She's Haunting Me [Revenant (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Suimega - URA-2027 [ASTRAL (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : SevenRingUnion feat. yufu_sekka - Still Alive In Love [I still love you I guess (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal11 - Adcar [Extra (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 0.5)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 0.6)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 0.7)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 0.7999999999999999)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 0.8999999999999999)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 0.9999999999999999)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 1.0999999999999999)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 1.1999999999999997)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 1.2999999999999998)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 1.4)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Kraus - Pitch Fucker [Catatonia (x 1.4999999999999998)]
+AI Prediction : Not Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Counter Clockwise Chant Pattern [Xaywise (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Twenty Knives - Crow's Ghost [Observer (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Ghost of 3.13 - Daydream [Fantasy (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Miserable Bastard [Despair (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Kkrusty - A Quick Death [Desolation (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Culprate & Dicade - Pencilina [4k melody (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Aquellex - Tachyon Beam Cannon [Destruction (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - Adcar [Challenge (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Outsider - Acquaintance [[Lv.7] Skwid's Challenge (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit [Tech Shit (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : The Flashbulb - Stinger [Challenge (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Terminal 11 - That's Gonna Be [Challenge (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Challenge (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Frictional Nevada [Challenge (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Sick Puppy - Down The Rabbit Hole (excerpt) [Endless Void (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - Sinthasomphone [Challenge (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Convolk - Uncertain (flip) [Fortuitousness (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - PEACE BREAKER [WRIST BREAKER (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Venetian Snares - She Runs [Breakaway (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Billain - Autonomous [Paranoid Schizophrenia (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - BADBOY [XLMP REDUX (2018) (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Dimitrij Schostakovich - String Quartet no. 8 mvt. 2 [Allegro Molto (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 0.5)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 0.6)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 0.7)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 0.7999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 0.8999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 0.9999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 1.0999999999999999)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 1.1999999999999997)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 1.2999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 1.4)]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : YZYX - Dysnomia [Aphasia (x 1.4999999999999998)]
+AI Prediction : Tech || Actual Results : Tech
+Accuracy = 96.875%

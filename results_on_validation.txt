@@ -1,0 +1,35 @@
+Beatmap : 3L - Endless Night [Eternal]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : Aekhloria - The Deepest Ocean [Decompression]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : BLANKFIELD - Far From Truth [Unreasonable]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : Boys Like Girls - The Great Escape [Departure]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - Circles of Death [Habitable Planet]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - Fastest Crash [Paroxysm]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Camellia - Flamewall [Incineration]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : DET - Fives [55555]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : DJ Okawari - Flower Dance [Inflorescence]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Beatmap : evOke - Edison [Challenge]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : Fantom - Connect 1986 [IcyWorld's Lv.9001]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : Hiroshige Tonomura - The Himalayas [Hard]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Igorrr & Ruby My Dear - Alain [Challenge]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : KURORAK - Gamma Stop Sending Me Ratchet and Clank Videos to Sample [Insane]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : xi - FREEDOM DiVE [NOODLE_Fullerene's 4K DIMENSIONS]
+AI Prediction : Tech || Actual Results : Not Tech
+Beatmap : Studio EIM - Crescent Moon Island Boss Theme [Kuro]
+AI Prediction : Tech || Actual Results : Tech
+Beatmap : Yuyoyuppe - AiAe [Wafles' SHD]
+AI Prediction : Not Tech || Actual Results : Not Tech
+Accuracy = 64.70588235294117%
